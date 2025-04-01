@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git+https://github.com/thisWandiPratama/react-native-sketch-canvas.git"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "perbaikan dari https://www.npmjs.com/package/@terrylinla/react-native-sketch-canvas karena tidak ada perawatan lagi",
   "author": "Wandi Pratama",
   "main": "index.js",
